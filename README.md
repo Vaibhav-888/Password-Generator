@@ -15,7 +15,7 @@ This Python application serves as a password manager to securely store and manag
 ### How to Use
 
 1. **Generating Passwords**:
-   - Click on the "Generate Password" button to create a secure password.
+  - Click on the "Generate Password" button to create a secure password.
    
 2. **Saving Credentials**:
    - Enter the website, email, and password details.
@@ -44,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Author
 
-- [Vaibhav Lohar](https://github.com/yourusername)
+- [Vaibhav Lohar](https://github.com/Vaibhav-888)
 
 Feel free to customize this template with additional information, screenshots, or any other details specific to your project. Good luck with your GitHub repository!
