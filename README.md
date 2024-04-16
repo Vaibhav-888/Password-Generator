@@ -46,4 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Vaibhav Lohar](https://github.com/Vaibhav-888)
 
-Feel free to customize this template with additional information, screenshots, or any other details specific to your project. Good luck with your GitHub repository!
