@@ -1,6 +1,6 @@
 # Password-Generator
 
-Creating a README.md file for your GitHub repository to describe the usability of your Python password manager code is a great idea. Here's a template you can use to structure your README.md file:
+This is README.md file.
 
 ## Password Manager
 
